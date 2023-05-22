@@ -37,10 +37,6 @@
       "description": "Get this value from @BotFather",
       "required": true,
       "value": "5928343643:AAGJjsQAVAimtvtssahspH78qW7UE0Ni5EY"
-    },
-    "chat_gid": {
-      "required": true,
-      "value": "-1001188847507"
     }
   }
 }
