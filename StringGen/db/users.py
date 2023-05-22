@@ -1,4 +1,4 @@
-from StringGenBot.db import db
+from StringGen.db import db
 
 usersdb = db.users
 

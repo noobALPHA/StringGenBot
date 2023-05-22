@@ -24,7 +24,7 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𓆩𝘼𝙇𝙋𝙃𝘼𓆪](tg://user?id={O
                     InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
                 ],
                 [
-                #    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://github.com/noobALPHA/StringGenBot"),
+                #    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://github.com/noobALPHA/StringGen"),
                     InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
                 ]
             ]
